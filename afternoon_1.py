@@ -38,6 +38,8 @@ print(2e5)
 
 print(float("1.6"))
 
+
+
 print(bool(0))
 
 print(bool(-1))
@@ -48,3 +50,11 @@ a=None
 print(a is None)
 
 print(0b1010)
+
+print(type(123))
+
+print(7/4)
+
+print(7//4)
+
+
